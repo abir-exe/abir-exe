@@ -19,4 +19,18 @@
 - 📫 How to reach me: [Linkedin](https://www.example.com) || [Facebook](https://www.facebook.com/abirmahmudXD) || [Twitter](https://www.twitter.com)
 - ⚡ Fun fact: I have a degree in Physics.
 
-### Current Status
+### 🌐 Tech Mastery:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,express,firebase,git" />
+  </a>
+</p>
+
+### Current Status:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abir-exe&theme=monokai)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abir-exe&theme=dracula&border_radius=4)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abir-exe&theme=monokai)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abir-exe&theme=monokai)
