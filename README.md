@@ -19,14 +19,14 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/web-abirmahmud/) || [Facebook](https://www.facebook.com/abirmahmudXD) || [Twitter](https://www.twitter.com/abirmahmud_)
 - ⚡ Fun fact: I have a degree in Physics.
 
-### 🌐 Tech Mastery:
+### 🌐 Skill Mastery:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,express,firebase,git" />
   </a>
 </p>
 
-### Current Status:
+### 🛠️ Current Status:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abir-exe&theme=monokai)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abir-exe&theme=monokai)     ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abir-exe&theme=monokai) 
@@ -76,7 +76,7 @@ https://oscorp-tech-asset-management.web.app/
 
 #### Features of the project:
 
-1.THis website is responsive for both mobile and laptop. 
+1. THis website is responsive for both mobile and laptop. 
 2. There is a authentication method with email and password and google login method. so that users can login and register easily using Firebase.
 3. This website has three modes based on three types of users.
 4. Employees can work for their company and Admin/HR can monitor them.
