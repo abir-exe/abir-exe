@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on any open source projects.
 - 🤔 I’m looking for help with upgrading my skills.
 - 💬 Ask me about my [projects](https://www.twitter.com).
-- 📫 How to reach me: [Linkedin](https://www.example.com) || [Facebook](https://www.facebook.com/abirmahmudXD) || [Twitter](https://www.twitter.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/web-abirmahmud/) || [Facebook](https://www.facebook.com/abirmahmudXD) || [Twitter](https://www.twitter.com/abirmahmud_)
 - ⚡ Fun fact: I have a degree in Physics.
 
 ### 🌐 Tech Mastery:
@@ -29,9 +29,10 @@
 ### Current Status:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abir-exe&theme=monokai)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abir-exe&theme=monokai)     ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abir-exe&theme=monokai) 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abir-exe&theme=dracula&border_radius=4)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abir-exe&theme=monokai)     ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abir-exe&theme=monokai)
 
 
 ## 🔗Socials Links
